@@ -67,11 +67,6 @@ ICT2403-RoadDamageDetection/
 - Anaconda Navigator + Jupyter Notebook
 - Libraries: OpenCV, NumPy, Matplotlib
 
-### Install Required Libraries
-```bash
-pip install opencv-python numpy matplotlib
-```
-
 ### Steps
 1. Make sure all extracted frames are in the `Frames/` folder
 2. Open **Anaconda Navigator** and launch **Jupyter Notebook**
