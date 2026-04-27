@@ -63,7 +63,7 @@ ICT2403-RoadDamageDetection/
 ## How to Run the Full Pipeline
 
 ### Requirements
-- Python 3.x
+- Python 3.10.19 
 - Anaconda Navigator + Jupyter Notebook
 - Libraries: OpenCV, NumPy, Matplotlib
 
